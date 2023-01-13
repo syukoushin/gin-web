@@ -1,3 +1,3 @@
 # gin-web
 
-A  project for practice
+A  project for practice gin
